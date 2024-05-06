@@ -1,8 +1,9 @@
-# React + Vite
+# Wild Oasis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## A Hotel Management App
 
-Currently, two official plugins are available:
+Tools Uncovered
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React Query](https://tanstack.com/query/latest)
+- [styled-components](https://styled-components.com/)
+- [React Hook Form](https://react-hook-form.com/)
